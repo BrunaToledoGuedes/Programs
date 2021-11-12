@@ -70,9 +70,7 @@ def main():
 
     # When do we say the process has 'converged' and stop updating clusters?
     cutoff = 0.2
-    #cutoff = 0.000000000000000000000001
-	#cutoff = 0.000000000000000000000001 
-
+   
     # Generate some points to cluster
     # Note: If you want to use your own data, set points equal to it here.
     #points = [
