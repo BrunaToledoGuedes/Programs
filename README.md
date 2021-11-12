@@ -1,1 +1,1 @@
-## Algoritmos da clusterização espectral, K-Means e simulador de redes
+## Algoritmos de clusterização espectral, K-Means e simulador de redes
