@@ -1,1 +1,1 @@
-## This repository contains the source codes of the following algorithms: spectral clustering, k-means, and network simulator.
+## This repository contains the source code for a wireless network simulator, spectral clustering algorithm, and k-means algorithm.
